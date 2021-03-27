@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋
 
-#### 저는 학생개발자 새싹입니다 😄
+#### 저는 학생 개발자 새싹입니다 😄
 
 <!--
 **saesac/saesac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
