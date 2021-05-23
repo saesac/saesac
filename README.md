@@ -2,7 +2,7 @@
 
 #### 저는 학생 개발자 새싹입니다 😄
 
-![ ](https://github-readme-stats.vercel.app/api?username=saesac&show_icons=true)
+![Githib Stat](https://github-readme-stats.vercel.app/api?username=saesac&show_icons=true)
 
 <!--
 **saesac/saesac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
