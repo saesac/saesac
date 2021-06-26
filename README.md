@@ -5,7 +5,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaesac%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![](https://github-readme-stats.vercel.app/api?username=saesac&show_icons=true&bg_color=DEG,toright,#24c6dc,#514a9d)
+![](https://github-readme-stats.vercel.app/api?username=saesac&show_icons=true&bg_color=DEG,#24c6dc,#514a9d)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&langs_count=8&layout=compact&theme=radical)
 </h2>
