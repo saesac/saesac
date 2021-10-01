@@ -13,7 +13,7 @@
 
 <h3>Learning</h3>
 
-- JavaScript
+- JavaScript, discord.js
 - Python
 
 <br>
