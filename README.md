@@ -16,8 +16,6 @@
 - discord.js
 - Python
 
-<br>
-
 <h3>저의 스텟은..</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&langs_count=8&layout=compact&theme=gotham)
