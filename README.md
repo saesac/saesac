@@ -1,5 +1,5 @@
-<h1>안녕하세요! 👋</h1>
-<h3>저는 학생 개발자 새싹입니다. 😆</h3>
+<h1>Hello, world! 👋</h1>
+<h3>I'm student dev, saesac! 😆</h3>
 
 <br><br>
 
@@ -7,16 +7,14 @@
 
 <br>
 
-<h3>제가 사용하는 것은..</h3>
-- HTML, CSS, JavaScript
-- C
+<h3>⚒️ Using</h3>
+- HTML, CSS, Python, C
 
-<h3>제가 배우는 것은..</h3>
-
+<h3>✏️ Learning</h3>
 - discord.js
 - Python
 
-<h3>저의 스텟은..</h3>
+<h3>📚️ Stats</h3>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&langs_count=8&layout=compact&theme=gotham)
 
