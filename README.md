@@ -8,7 +8,7 @@ I'm student dev, saesac! 😆
 * HTML, CSS, Python, C
 
 ## ✏️ Learning
-* JS(discord.js)
+* JS(and discord.js)
 
 ## 📚️ Stats
 
