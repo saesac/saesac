@@ -8,7 +8,7 @@
 - HTML, CSS, Python, C
 
 <h3>✏️ Learning</h3>
-- JS( + discord.js )
+- JS(discord.js)
 
 <h3>📚️ Stats</h3>
 
