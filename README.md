@@ -8,7 +8,7 @@
 * HTML, CSS, Python, C
 
 ## ✏️ Learning
-* JS(and discord.js)
+* JS(and discord.js), Algorithm
 
 ## 📚️ Stats
 
