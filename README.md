@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:saesacdev@gmail.com)
 
 ## ⚒️ Using
-* HTML, CSS, Python, C
+* HTML, CSS, JS, Python, C
 
 ## ✏️ Learning
-* JS(and discord.js), Algorithm
+* Algorithm, React.js
 
 ## 📚️ Stats
 
