@@ -8,7 +8,7 @@
 * HTML, CSS, JS, Python, C
 
 ## ✏️ Learning
-* Algorithm, React.js
+* Algorithm, React
 
 ## 📚️ Stats
 
