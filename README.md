@@ -1,17 +1,30 @@
-# Hi, there! 👋 
-#### I'm student dev, saesac! 😆
+<div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfffe9,50:78ffa7,100:1ED760&height=200&section=header&text=Hi%20there👋&fontColor=ffffff&fontSize=70&fontAlignY=40)  
+I'm a student **who likes development and design.❤️**  
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaesac%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:saesacdev@gmail.com)
-
-## ⚒️ Using
-* HTML, CSS, JS, Python, C
-
-## ✏️ Learning
-* Algorithm, React
-
-## 📚️ Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&langs_count=8&layout=compact&theme=gotham)
-
-![](https://github-readme-stats.vercel.app/api?username=saesac&show_icons=true&theme=gotham)
+Programming from 2020 to 2022 (because I was sick)  
+**Now, I'm learning programming again.🔥**
+## 🛠️Tech Stacks
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+ <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VISUAL STUDIO-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/REPLIT-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black"/>
+ <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black"/>
+ <img src="https://img.shields.io/badge/LIGHTROOM-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=black"/>
+ 
+## 👨‍💻Contact me
+ <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
+ <a href="https://www.instagram.com/sae._.sac"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sae._.sac"/></a>
+ <img src="https://img.shields.io/badge/DISCORD : saesac-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</div>
