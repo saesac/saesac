@@ -25,6 +25,6 @@ Programming from 2020 to 2022 (because I was sick)
  
 ## 👨‍💻Contact me
  <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
- <a href="https://www.instagram.com/sae._.sac"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sae._.sac"/></a>
+ <a href="https://www.instagram.com/thstndrd"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thstndrd"/></a>
  <img src="https://img.shields.io/badge/DISCORD : saesac-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
