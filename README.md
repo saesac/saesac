@@ -1,10 +1,10 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfffe9,50:78ffa7,100:1ED760&height=200&section=header&text=Hi%20there👋&fontColor=ffffff&fontSize=70&fontAlignY=40)  
-I'm a student **who likes development and design.❤️**  
+A student **who loves development and design❤️**  
+Being trying various things, different things, wonderful things🔥
 
-Programming from 2020 to 2022 (because I was sick)  
-**Now, I'm learning programming again.🔥**
+
 ## 🛠️Tech Stacks
  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -26,5 +26,5 @@ Programming from 2020 to 2022 (because I was sick)
 ## 👨‍💻Contact me
  <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
  <a href="https://www.instagram.com/chosvv"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/chosvv"/></a>
- <img src="https://img.shields.io/badge/DISCORD : saesac-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+ <a href="https://discord.com/users/758666518526558220"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
