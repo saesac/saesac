@@ -25,6 +25,7 @@ Being trying various things, different things, wonderful things🔥
  
 ## 👨‍💻Contact me
  <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
- <a href="https://www.instagram.com/chosvv"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/chosvv"/></a>
  <a href="https://discord.com/users/758666518526558220"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://www.instagram.com/chosvv"><img src="https://img.shields.io/badge/FOR_LIFE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/chosvv"/></a>
+ <a href="https://www.instagram.com/devsaesac"><img src="https://img.shields.io/badge/FOR_DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/devsaesac"/></a>
 </div>
