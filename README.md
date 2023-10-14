@@ -22,6 +22,13 @@ Being trying various things, different things, wonderful things🔥
  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=black"/>
  <img src="https://img.shields.io/badge/XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=black"/>
  <img src="https://img.shields.io/badge/LIGHTROOM-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=black"/>
+
+## 📊Stats
+  <p>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saesac&count_private=true&show_icons=true&theme=vue"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&layout=compact&theme=vue"/>
+    <a href="https://solved.ac/profile/saesac"><img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
+  </p>
  
 ## 👨‍💻Contact me
  <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
