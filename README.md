@@ -25,9 +25,9 @@ Being trying various things, different things, wonderful things🔥
 
 ## 📊Stats
   <p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saesac&count_private=true&show_icons=true&theme=vue"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&layout=compact&theme=vue"/>
-    <a href="https://solved.ac/profile/saesac"><img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
+    <img height="110em" src="https://github-readme-stats.vercel.app/api?username=saesac&count_private=true&show_icons=true&theme=vue"/>
+    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&layout=compact&theme=vue"/>
+    <a href="https://solved.ac/profile/saesac"><img height="110em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
   </p>
  
 ## 👨‍💻Contact me
