@@ -30,7 +30,7 @@ I'm trying various things, different things, wonderful things🔥
   </p>
   <p>
     <a href="https://solved.ac/profile/saesac"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
-    <a href="https://solved.ac/profile/saesac"><img src="http://mazandi.herokuapp.com/api?handle=saesac&theme=warm"/></a>
+    <a href="https://solved.ac/profile/saesac"><img src="http://mazandi.herokuapp.com/api?handle=saesac&theme=cold"/></a>
   </p>
  
 ## 👨‍💻Contact me
