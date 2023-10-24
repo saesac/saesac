@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfffe9,50:78ffa7,100:1ED760&height=200&section=header&text=Hi%20there👋&fontColor=ffffff&fontSize=70&fontAlignY=40)  
 A student **who loves development and design❤️**  
-Being trying various things, different things, wonderful things🔥
+I'm trying various things, different things, wonderful things🔥
 
 
 ## 🛠️Tech Stacks
@@ -25,9 +25,12 @@ Being trying various things, different things, wonderful things🔥
 
 ## 📊Stats
   <p>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=saesac&count_private=true&show_icons=true&theme=vue"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&layout=compact&theme=vue"/>
-    <a href="https://solved.ac/profile/saesac"><img height="130em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=saesac&count_private=true&show_icons=true&theme=vue"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saesac&layout=compact&theme=vue"/>
+  </p>
+  <p>
+    <a href="https://solved.ac/profile/saesac"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=saesac"/></a>
+    <a href="https://solved.ac/profile/saesac"><img src="http://mazandi.herokuapp.com/api?handle=saesac&theme=warm"/></a>
   </p>
  
 ## 👨‍💻Contact me
