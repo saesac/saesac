@@ -37,5 +37,5 @@ I'm trying various things, different things, wonderful things🔥
  <a href="mailto:saesacdev@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saesacdev@gmail.com"/></a>
  <a href="https://discord.com/users/758666518526558220"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
  <a href="https://www.instagram.com/chosvv"><img src="https://img.shields.io/badge/LIFE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/chosvv"/></a>
- <a href="https://www.instagram.com/dev.saesac"><img src="https://img.shields.io/badge/DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.saesac"/></a>
+ <a href="https://www.instagram.com/svnrk"><img src="https://img.shields.io/badge/DEV-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/svnrk"/></a>
 </div>
